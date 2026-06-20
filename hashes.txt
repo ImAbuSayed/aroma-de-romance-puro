@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aroma de romance puro
+
+This log tracks the cryptographic history and versioning for the song **Aroma de romance puro** (aroma-de-romance-puro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:24:23.177658 | `v1` | `a5731db8e35cbf44e2c52ab22463d4dfe139d78af40ee883d4ecac8390c9ba99` | `310742fff454f8eb49650e02c8f4bd85602af7428c3362a954227c4ec8665cf3` | `2026-06-21_aroma-de-romance-puro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
